@@ -31,9 +31,9 @@ We believe that everyone can make a difference, and your contributions to our NS
 Check out our [RFID Attendance System](./projects) section to explore ongoing initiatives and find projects you're interested in contributing to.
 
 ## Contact Us
-E-mail : nssvitofficialcc@gmail.com
-Instagram : Nssvitchennai
-If you have any questions, suggestions, or need assistance, feel free to reach out to us. You can find our contact information on our [website](https://nssvitchennai.netlify.app) or by sending an email to nss@example.com.
+E-mail: nssvitofficialcc@gmail.com
+Instagram: Nssvitchennai
+If you have any questions, or suggestions, or need assistance, feel free to reach out to us. You can find our contact information on our [website](https://nssvitchennai.netlify.app) or by sending an email to nssvitofficialcc@gmail.com.
 
 Thank you for your interest in NSS and your commitment to making a positive impact in our community!
 
