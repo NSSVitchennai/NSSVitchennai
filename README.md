@@ -32,7 +32,7 @@ Check out our [RFID Attendance System](https://github.com/NSSVitchennai/RFID-ATT
 
 ## Contact Us
 - E-mail: nssvitofficialcc@gmail.com
-- Instagram: Nssvitchennai
+- Instagram: [Nssvitchennai](https://www.instagram.com/nssvitchennai/?hl=en)
 
 If you have any questions, suggestions, or need assistance, feel free to reach out to us. You can find our contact information on our [website](https://nssvitchennai.netlify.app) or by sending an email to nssvitofficialcc@gmail.com.
 
