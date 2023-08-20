@@ -28,18 +28,14 @@ We believe that everyone can make a difference, and your contributions to our NS
 
 ## Current Projects
 
-Check out our [RFID Attendance System](./projects) section to explore ongoing initiatives and find projects you're interested in contributing to.
+Check out our [RFID Attendance System](https://github.com/NSSVitchennai/RFID-ATTENDANCE-nssvitc) to explore ongoing initiatives and find projects you're interested in contributing to.
 
 ## Contact Us
-E-mail: nssvitofficialcc@gmail.com
-Instagram: Nssvitchennai
-If you have any questions, or suggestions, or need assistance, feel free to reach out to us. You can find our contact information on our [website](https://nssvitchennai.netlify.app) or by sending an email to nssvitofficialcc@gmail.com.
+- E-mail: nssvitofficialcc@gmail.com
+- Instagram: [Nssvitchennai](https://www.instagram.com/nssvitchennai/?hl=en)
+
+If you have any questions, suggestions, or need assistance, feel free to reach out to us. You can find our contact information on our [website](https://nssvitchennai.netlify.app) or by sending an email to nssvitofficialcc@gmail.com.
 
 Thank you for your interest in NSS and your commitment to making a positive impact in our community!
 
 Let's work together for a better society 🌱🤝
-
-<!---
-NSSVitchennai/NSSVitchennai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
