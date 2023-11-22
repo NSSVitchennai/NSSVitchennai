@@ -3,6 +3,7 @@
 Welcome to the National Service Scheme (NSS) GitHub repository! We're excited to have you here and invite you to contribute to our community-driven projects and initiatives.
 
 ## About NSS
+![Logo](https://seeklogo.com/free-vector-logos/nss)
 
 The National Service Scheme (NSS) is a nationwide initiative in India aimed at developing student volunteers into socially responsible citizens. Our mission is to contribute to community development and social change through various projects and activities.
 
